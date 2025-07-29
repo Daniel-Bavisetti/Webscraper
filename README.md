@@ -18,3 +18,4 @@ pip install -r requirements.txt
 ```bash
 python examples/scrape_example.py
 ```
+A output.csv would be created after a successful run
