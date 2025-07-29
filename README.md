@@ -1,11 +1,6 @@
 # WebScraper
 A simple, modular Python package to scrape web content using CSS selectors. Supports multiple URLs, delays, and exports to CSV.
 
-## Usage Example
-```bash
-python examples/scrape_example.py
-```
-
 ---
 
 ## ✅ To Run It:
